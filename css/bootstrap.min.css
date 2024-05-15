@@ -6682,7 +6682,8 @@ button.bg-dark:hover {
         display: inline-block!important
     }
     .d-lg-block {
-        display: block!important
+        display: block!important;
+        width: 1114px;
     }
     .d-lg-table {
         display: table!important
